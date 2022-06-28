@@ -7,11 +7,6 @@
     * `String getExponentiations(int start, int stop, int step, int exponent)` 
     
 
-
-
-
-
-
 <br><br><br><br>
 ## `String getRange(int stop)`
 * **Description**
@@ -40,12 +35,6 @@
 
 
 
-
-
-
-
-
-
 <br><br><br><br>
 ## `String getRange(int start, int stop)`
 * **Description**
@@ -65,16 +54,11 @@
     System.out.println(outcome);
     ```
 
-
-
 * Sample Output
 
     ```
     5678910
     ```
-
-
-
 
 
 <br><br><br><br>
@@ -105,14 +89,6 @@
     51015
     ```
     
-    
-    
-
-
-
-
-
-
 
 
 
@@ -164,27 +140,12 @@
     System.out.println(outcome);
     ```
 
-
-
 * Sample Output
 
     ```
     5791113151719
     ```
 
-
-
-
-
-
-
-
-
-
-
-
-
-    
 
 <br><br><br><br>
 ## `String getSquareNumbers(int start, int stop)`
@@ -205,8 +166,6 @@
     System.out.println(outcome);
     ```
 
-
-
 * Sample Output
 
     ```
@@ -214,12 +173,6 @@
     ```
     
     
-    
-    
-
-
-
-
 
 
 

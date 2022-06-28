@@ -5,36 +5,6 @@
     * `String getMultiplicationTable(int width)`
 
 
-
-
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-
-
-
-
-
-
 <br><br><br><br>
 ## `String getSmallMultiplicationTable()`
 * **Description**
@@ -64,43 +34,6 @@
     ```
 
 
-
-
-
-
-
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
     
 <br><br><br><br>
 ## `String getLargeMultiplicationTable()`
@@ -136,40 +69,7 @@
     9 | 18 | 27 | 36 | 45 | 54 | 63 | 72 | 81 | 90 |
    10 | 20 | 30 | 40 | 50 | 60 | 70 | 80 | 90 |100 |
     ```
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
+
     
 <br><br><br><br>
 ## `String getMultiplicationTable(int width)`
@@ -191,8 +91,6 @@
     System.out.println(outcome);
     ```
 
-
-
 * Sample Output
 
     ```
@@ -200,8 +98,6 @@
       2 |  4 |  6 |
       3 |  6 |  9 |
     ```
-
-
 
 ### Example 2
 * Sample Script

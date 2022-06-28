@@ -32,18 +32,6 @@
     ```
     **********
     ```
-    
-    
-    
-    
-    
-    
-
-
-
-
-
-
 
 
 <br><br><br><br>
@@ -74,12 +62,7 @@
     ****
     
     ```
-    
-    
-    
-    
-    
-    
+
 
 <br><br><br><br>
 ## `String getLargeTriangle()`
@@ -98,8 +81,6 @@
     System.out.println(outcome);
     ```
 
-
-
 * Sample Output
 
     ```
@@ -114,11 +95,6 @@
     *********
     
     ```
-
-
-
-
-
 
 
 <br><br><br><br>
@@ -140,8 +116,6 @@
     // : Then
     System.out.println(outcome);
     ```
-
-
 
 * Sample Output
 
